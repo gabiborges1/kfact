@@ -1,9 +1,8 @@
 Package: kfact
-Title: Clustering Analysis in Categorical Data with Kfact.
+Title: Clustering Analysis in Categorical Data with Kfact
 Version: 1.0.0
 Imports:
-    dplyr,
-    tidyr 
+    dplyr
 Authors@R: 
     person(given = "Gabriela",
            family = "Borges",
@@ -17,3 +16,4 @@ Description: An implementation of Kfact, an alternative unsupervised learning al
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
