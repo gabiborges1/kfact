@@ -1,0 +1,19 @@
+Package: kfact
+Title: Clustering Analysis in Categorical Data with Kfact.
+Version: 1.0.0
+Imports:
+    dplyr,
+    tidyr 
+Authors@R: 
+    person(given = "Gabriela",
+           family = "Borges",
+           role = c("aut", "cre"),
+           email = "gabilimaborges@hotmail.com")
+    person(given = "Robespierre",
+           family = "Pita",
+           role = c("aut", "cre"),
+           email = "gabilimaborges@hotmail.com")
+Description: An implementation of Kfact, an alternative unsupervised learning algorithm to do clustering analysis in categorical data. This package also include many distance measures and index's of qualitative variation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
